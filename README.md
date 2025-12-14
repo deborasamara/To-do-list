@@ -70,3 +70,26 @@ python -m venv venv
 source venv/bin/activate  # Windows: venv\Scripts\activate
 pip install -r requirements.txt
 flask run
+
+---
+```
+
+## 👥 Equipe
+
+### **Débora**  
+**Responsabilidades**: Front-end, Design de Telas, Documentação  
+**Skills**: React, TypeScript, Figma, UI/UX Design  
+**LinkedIn**: [linkedin.com/in/deborasrodrigues]([https://www.linkedin.com/in/debor](https://www.linkedin.com/in/deborasrodrigues/))  
+**GitHub**: [github.com/deborasamara](https://github.com/deborasamara)
+
+### **Denilo**  
+**Responsabilidades**: Back-end, Documentação  
+**Skills**: Python, Flask, APIs, SQL, Desenvolvimento de sistemas  
+**GitHub**: [github.com/denilo](https://github.com/denilodev)
+
+---
+
+## 💬 Comunicação
+(...)
+
+
