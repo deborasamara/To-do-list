@@ -85,7 +85,7 @@ flask run
 ### **Denilo**  
 **Responsabilidades**: Back-end, Documentação  
 **Skills**: Python, Flask, APIs, SQL, Desenvolvimento de sistemas  
-**GitHub**: [github.com/denilo](https://github.com/denilodev)
+**GitHub**: [github.com/denilodev](https://github.com/denilodev)
 
 ---
 
